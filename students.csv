@@ -1,6 +1,6 @@
-﻿student,maths,science,english
-S1,80,85,90
-S2,70,75,80
-S3,90,95,85
-S4,60,65,70
-S5,85,80,90
+﻿roll_number,student,maths,science,english
+101,Sowmya,80,85,90
+102,Anu,70,75,80
+103,Divya,90,95,85
+104,Priya,60,65,70
+105,Keerthi,85,80,90
